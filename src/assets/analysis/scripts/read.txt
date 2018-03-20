@@ -1,0 +1,9 @@
+ALWAYS REMEMBER TO REMOVE TEST MATCHES WHEN USING UNIQUE_ROSTERS.JSON
+
+to get batsmen scores from where we can build rosters, run get_batsmen_scores.py
+then run create_rosters notebook
+then run create_unique_rosters notebook
+Now you have unique rosters saved in unique_rosters.json
+
+to get player cricinfo links, run get_player_links.py
+to get player details, run get_player_details.py

@@ -1,0 +1,514 @@
+{
+  "AB Agarkar": {
+    "debut":2001,
+    "end":2007
+  },
+  "SS Das": {
+    "debut":2001,
+    "end":2002
+  },
+  "R Dravid": {
+    "debut":2001,
+    "end":2012
+  },
+  "SC Ganguly": {
+    "debut":2001,
+    "end":2008
+  },
+  "Harbhajan Singh": {
+    "debut":2001,
+    "end":2016
+  },
+  "VVS Laxman": {
+    "debut":2001,
+    "end":2012
+  },
+  "NR Mongia": {
+    "debut":2001,
+    "end":2001
+  },
+  "S Ramesh": {
+    "debut":2001,
+    "end":2001
+  },
+  "RL Sanghvi": {
+    "debut":2001,
+    "end":2001
+  },
+  "J Srinath": {
+    "debut":2001,
+    "end":2003
+  },
+  "SR Tendulkar": {
+    "debut":2001,
+    "end":2013
+  },
+  "Z Khan": {
+    "debut":2001,
+    "end":2014
+  },
+  "BKV Prasad": {
+    "debut":2001,
+    "end":2001
+  },
+  "SLV Raju": {
+    "debut":2001,
+    "end":2001
+  },
+  "SV Bahutule": {
+    "debut":2001,
+    "end":2003
+  },
+  "SS Dighe": {
+    "debut":2001,
+    "end":2001
+  },
+  "NM Kulkarni": {
+    "debut":2001,
+    "end":2001
+  },
+  "HK Badani": {
+    "debut":2001,
+    "end":2004
+  },
+  "V Dahiya": {
+    "debut":2001,
+    "end":2001
+  },
+  "V Sehwag": {
+    "debut":2001,
+    "end":2013
+  },
+  "SB Joshi": {
+    "debut":2001,
+    "end":2001
+  },
+  "D Mongia": {
+    "debut":2001,
+    "end":2007
+  },
+  "RR Singh": {
+    "debut":2001,
+    "end":2001
+  },
+  "Yuvraj Singh": {
+    "debut":2001,
+    "end":2017
+  },
+  "A Nehra": {
+    "debut":2001,
+    "end":2017
+  },
+  "Harvinder Singh": {
+    "debut":2001,
+    "end":2001
+  },
+  "DS Mohanty": {
+    "debut":2001,
+    "end":2001
+  },
+  "RS Sodhi": {
+    "debut":2001,
+    "end":2002
+  },
+  "AR Khurasiya": {
+    "debut":2001,
+    "end":2001
+  },
+  "M Kaif": {
+    "debut":2001,
+    "end":2006
+  },
+  "D Dasgupta": {
+    "debut":2001,
+    "end":2002
+  },
+  "A Kumble": {
+    "debut":2001,
+    "end":2008
+  },
+  "JJ Martin": {
+    "debut":2001,
+    "end":2001
+  },
+  "SB Bangar": {
+    "debut":2001,
+    "end":2004
+  },
+  "IR Siddiqui": {
+    "debut":2001,
+    "end":2001
+  },
+  "T Yohannan": {
+    "debut":2001,
+    "end":2002
+  },
+  "Sarandeep Singh": {
+    "debut":2001,
+    "end":2003
+  },
+  "A Ratra": {
+    "debut":2002,
+    "end":2002
+  },
+  "M Kartik": {
+    "debut":2002,
+    "end":2007
+  },
+  "R Vijay Bharadwaj": {
+    "debut":2002,
+    "end":2002
+  },
+  "W Jaffer": {
+    "debut":2002,
+    "end":2008
+  },
+  "PA Patel": {
+    "debut":2002,
+    "end":2018
+  },
+  "Jai P Yadav": {
+    "debut":2002,
+    "end":2005
+  },
+  "L Balaji": {
+    "debut":2002,
+    "end":2012
+  },
+  "G Gambhir": {
+    "debut":2003,
+    "end":2016
+  },
+  "AM Salvi": {
+    "debut":2003,
+    "end":2003
+  },
+  "A Mishra": {
+    "debut":2003,
+    "end":2017
+  },
+  "AV Kale": {
+    "debut":2003,
+    "end":2003
+  },
+  "A Chopra": {
+    "debut":2003,
+    "end":2004
+  },
+  "IK Pathan": {
+    "debut":2003,
+    "end":2012
+  },
+  "RS Gavaskar": {
+    "debut":2004,
+    "end":2004
+  },
+  "A Bhandari": {
+    "debut":2004,
+    "end":2004
+  },
+  "RR Powar": {
+    "debut":2004,
+    "end":2007
+  },
+  "KD Karthik": {
+    "debut":2004,
+    "end":2018
+  },
+  "MS Dhoni": {
+    "debut":2004,
+    "end":2018
+  },
+  "Joginder Sharma": {
+    "debut":2004,
+    "end":2007
+  },
+  "S Sriram": {
+    "debut":2004,
+    "end":2004
+  },
+  "SK Raina": {
+    "debut":2005,
+    "end":2018
+  },
+  "Y Venugopal Rao": {
+    "debut":2005,
+    "end":2006
+  },
+  "RP Singh": {
+    "debut":2005,
+    "end":2011
+  },
+  "S Sreesanth": {
+    "debut":2005,
+    "end":2011
+  },
+  "PP Chawla": {
+    "debut":2006,
+    "end":2012
+  },
+  "MM Patel": {
+    "debut":2006,
+    "end":2011
+  },
+  "VRV Singh": {
+    "debut":2006,
+    "end":2007
+  },
+  "RV Uthappa": {
+    "debut":2006,
+    "end":2015
+  },
+  "I Sharma": {
+    "debut":2007,
+    "end":2018
+  },
+  "RG Sharma": {
+    "debut":2007,
+    "end":2018
+  },
+  "YK Pathan": {
+    "debut":2007,
+    "end":2012
+  },
+  "P Kumar": {
+    "debut":2007,
+    "end":2012
+  },
+  "MK Tiwary": {
+    "debut":2008,
+    "end":2015
+  },
+  "MS Gony": {
+    "debut":2008,
+    "end":2008
+  },
+  "PP Ojha": {
+    "debut":2008,
+    "end":2013
+  },
+  "V Kohli": {
+    "debut":2008,
+    "end":2018
+  },
+  "S Badrinath": {
+    "debut":2008,
+    "end":2011
+  },
+  "M Vijay": {
+    "debut":2008,
+    "end":2018
+  },
+  "RA Jadeja": {
+    "debut":2009,
+    "end":2017
+  },
+  "AM Nayar": {
+    "debut":2009,
+    "end":2009
+  },
+  "AB Dinda": {
+    "debut":2009,
+    "end":2013
+  },
+  "S Tyagi": {
+    "debut":2009,
+    "end":2010
+  },
+  "WP Saha": {
+    "debut":2010,
+    "end":2018
+  },
+  "A Mithun": {
+    "debut":2010,
+    "end":2011
+  },
+  "R Vinay Kumar": {
+    "debut":2010,
+    "end":2013
+  },
+  "UT Yadav": {
+    "debut":2010,
+    "end":2017
+  },
+  "R Ashwin": {
+    "debut":2010,
+    "end":2018
+  },
+  "NV Ojha": {
+    "debut":2010,
+    "end":2015
+  },
+  "Pankaj Singh": {
+    "debut":2010,
+    "end":2014
+  },
+  "CA Pujara": {
+    "debut":2010,
+    "end":2018
+  },
+  "S Dhawan": {
+    "debut":2010,
+    "end":2018
+  },
+  "SS Tiwary": {
+    "debut":2010,
+    "end":2010
+  },
+  "JD Unadkat": {
+    "debut":2010,
+    "end":2018
+  },
+  "A Mukund": {
+    "debut":2011,
+    "end":2017
+  },
+  "AM Rahane": {
+    "debut":2011,
+    "end":2018
+  },
+  "VR Aaron": {
+    "debut":2011,
+    "end":2015
+  },
+  "R Sharma": {
+    "debut":2011,
+    "end":2012
+  },
+  "P Awana": {
+    "debut":2012,
+    "end":2012
+  },
+  "B Kumar": {
+    "debut":2012,
+    "end":2018
+  },
+  "Mohammed Shami": {
+    "debut":2013,
+    "end":2018
+  },
+  "AT Rayudu": {
+    "debut":2013,
+    "end":2016
+  },
+  "MM Sharma": {
+    "debut":2013,
+    "end":2015
+  },
+  "STR Binny": {
+    "debut":2014,
+    "end":2016
+  },
+  "Parvez Rasool": {
+    "debut":2014,
+    "end":2017
+  },
+  "AR Patel": {
+    "debut":2014,
+    "end":2018
+  },
+  "DS Kulkarni": {
+    "debut":2014,
+    "end":2016
+  },
+  "KV Sharma": {
+    "debut":2014,
+    "end":2014
+  },
+  "KM Jadhav": {
+    "debut":2014,
+    "end":2018
+  },
+  "KL Rahul": {
+    "debut":2014,
+    "end":2018
+  },
+  "MK Pandey": {
+    "debut":2015,
+    "end":2018
+  },
+  "Sandeep Sharma": {
+    "debut":2015,
+    "end":2015
+  },
+  "SV Samson": {
+    "debut":2015,
+    "end":2015
+  },
+  "S Aravind": {
+    "debut":2015,
+    "end":2015
+  },
+  "BB Sran": {
+    "debut":2016,
+    "end":2016
+  },
+  "R Dhawan": {
+    "debut":2016,
+    "end":2016
+  },
+  "Gurkeerat Singh": {
+    "debut":2016,
+    "end":2016
+  },
+  "JJ Bumrah": {
+    "debut":2016,
+    "end":2018
+  },
+  "HH Pandya": {
+    "debut":2016,
+    "end":2018
+  },
+  "P Negi": {
+    "debut":2016,
+    "end":2016
+  },
+  "YS Chahal": {
+    "debut":2016,
+    "end":2018
+  },
+  "KK Nair": {
+    "debut":2016,
+    "end":2017
+  },
+  "FY Fazal": {
+    "debut":2016,
+    "end":2016
+  },
+  "Mandeep Singh": {
+    "debut":2016,
+    "end":2016
+  },
+  "J Yadav": {
+    "debut":2016,
+    "end":2017
+  },
+  "RR Pant": {
+    "debut":2017,
+    "end":2018
+  },
+  "Kuldeep Yadav": {
+    "debut":2017,
+    "end":2018
+  },
+  "SN Thakur": {
+    "debut":2017,
+    "end":2018
+  },
+  "SS Iyer": {
+    "debut":2017,
+    "end":2018
+  },
+  "Mohammed Siraj": {
+    "debut":2017,
+    "end":2018
+  },
+  "Washington Sundar": {
+    "debut":2017,
+    "end":2018
+  },
+  "V Shankar": {
+    "debut":2018,
+    "end":2018
+  }
+}

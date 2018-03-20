@@ -1,0 +1,16 @@
+{
+  "Right-arm offbreak" : ["spin"],
+  "Slow left-arm orthodox": ["slow"],
+  "Right-arm medium Right-arm offbreak": ["spin", "medium"],
+  "Right-arm medium" : ["medium"],
+  "Right-arm medium-fast" : ["medium-fast"],
+  "Right-arm offbreak Legbreak googly" : ["spin"],
+  "Right-arm fast-medium" : ["fast-medium"],
+  "Left-arm fast-medium" : ["fast-medium"],
+  "Legbreak googly" : ["spin"],
+  "Legbreak" : ["spin"],
+  "Slow left-arm chinaman" : ["spin"],
+  "Left-arm medium": ["medium"],
+  "Left-arm medium-fast": ["medium-fast"],
+  "Right-arm fast": ["fast"]
+}

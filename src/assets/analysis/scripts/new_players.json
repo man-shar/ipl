@@ -1,0 +1,3447 @@
+{
+  "01 Jan 2003": {
+    "players": [
+      "SB Bangar"
+    ],
+    "avg_age": 30.2
+  },
+  "04 Jan 2003": {
+    "players": [
+      "PA Patel"
+    ],
+    "avg_age": 17.8
+  },
+  "08 Jan 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Jan 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Jan 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "12 Feb 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "19 Feb 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Mar 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "07 Mar 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Apr 2003": {
+    "players": [
+      "G Gambhir",
+      "AM Salvi",
+      "PA Patel"
+    ],
+    "avg_age": 20.366666666666667
+  },
+  "13 Apr 2003": {
+    "players": [
+      "G Gambhir",
+      "A Mishra",
+      "PA Patel"
+    ],
+    "avg_age": 20
+  },
+  "16 Apr 2003": {
+    "players": [
+      "G Gambhir",
+      "AV Kale",
+      "PA Patel",
+      "AM Salvi",
+      "A Mishra",
+      "Sarandeep Singh"
+    ],
+    "avg_age": 22.46666666666667
+  },
+  "18 Apr 2003": {
+    "players": [
+      "G Gambhir",
+      "PA Patel",
+      "AM Salvi",
+      "Sarandeep Singh"
+    ],
+    "avg_age": 21.15
+  },
+  "21 Apr 2003": {
+    "players": [
+      "G Gambhir",
+      "A Mishra",
+      "PA Patel"
+    ],
+    "avg_age": 20
+  },
+  "08 Oct 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Oct 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Oct 2003": {
+    "players": [
+      "PA Patel"
+    ],
+    "avg_age": 18.6
+  },
+  "06 Nov 2003": {
+    "players": [
+      "SV Bahutule",
+      "M Kartik"
+    ],
+    "avg_age": 29.049999999999997
+  },
+  "12 Nov 2003": {
+    "players": [
+      "M Kartik"
+    ],
+    "avg_age": 27.2
+  },
+  "15 Nov 2003": {
+    "players": [
+      "M Kartik"
+    ],
+    "avg_age": 27.2
+  },
+  "18 Nov 2003": {
+    "players": [
+      "M Kartik",
+      "AM Salvi"
+    ],
+    "avg_age": 24.65
+  },
+  "04 Dec 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "12 Dec 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Dec 2003": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Jan 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Jan 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji"
+    ],
+    "avg_age": 20.75
+  },
+  "14 Jan 2004": {
+    "players": [
+      "L Balaji",
+      "IK Pathan"
+    ],
+    "avg_age": 20.75
+  },
+  "18 Jan 2004": {
+    "players": [
+      "L Balaji",
+      "RS Gavaskar",
+      "IK Pathan"
+    ],
+    "avg_age": 23.133333333333336
+  },
+  "20 Jan 2004": {
+    "players": [
+      "PA Patel",
+      "L Balaji",
+      "RS Gavaskar",
+      "IK Pathan"
+    ],
+    "avg_age": 22.075
+  },
+  "22 Jan 2004": {
+    "players": [
+      "L Balaji",
+      "M Kartik",
+      "RS Gavaskar",
+      "IK Pathan"
+    ],
+    "avg_age": 24.2
+  },
+  "24 Jan 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji",
+      "M Kartik",
+      "RS Gavaskar"
+    ],
+    "avg_age": 24.225
+  },
+  "01 Feb 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji",
+      "M Kartik",
+      "RS Gavaskar"
+    ],
+    "avg_age": 24.275
+  },
+  "03 Feb 2004": {
+    "players": [
+      "IK Pathan",
+      "A Bhandari",
+      "L Balaji",
+      "RS Gavaskar"
+    ],
+    "avg_age": 23.775
+  },
+  "06 Feb 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji"
+    ],
+    "avg_age": 20.85
+  },
+  "08 Feb 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji",
+      "M Kartik"
+    ],
+    "avg_age": 23.03333333333333
+  },
+  "13 Mar 2004": {
+    "players": [
+      "L Balaji",
+      "M Kartik"
+    ],
+    "avg_age": 25
+  },
+  "16 Mar 2004": {
+    "players": [
+      "L Balaji",
+      "RR Powar"
+    ],
+    "avg_age": 24.15
+  },
+  "19 Mar 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji",
+      "RR Powar"
+    ],
+    "avg_age": 22.566666666666666
+  },
+  "21 Mar 2004": {
+    "players": [
+      "IK Pathan",
+      "L Balaji",
+      "M Kartik"
+    ],
+    "avg_age": 23.133333333333336
+  },
+  "28 Mar 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "05 Apr 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Apr 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Jul 2004": {
+    "players": [
+      "IK Pathan"
+    ],
+    "avg_age": 19.7
+  },
+  "18 Jul 2004": {
+    "players": [
+      "IK Pathan"
+    ],
+    "avg_age": 19.7
+  },
+  "21 Jul 2004": {
+    "players": [
+      "IK Pathan"
+    ],
+    "avg_age": 19.7
+  },
+  "25 Jul 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "27 Jul 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Aug 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Aug 2004": {
+    "players": [
+      "RS Gavaskar"
+    ],
+    "avg_age": 28.5
+  },
+  "23 Aug 2004": {
+    "players": [
+      "RS Gavaskar"
+    ],
+    "avg_age": 28.5
+  },
+  "03 Sep 2004": {
+    "players": [
+      "RS Gavaskar"
+    ],
+    "avg_age": 28.6
+  },
+  "05 Sep 2004": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 19.3
+  },
+  "11 Sep 2004": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 19.3
+  },
+  "19 Sep 2004": {
+    "players": [
+      "RS Gavaskar"
+    ],
+    "avg_age": 28.6
+  },
+  "06 Oct 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Oct 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Oct 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Nov 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Nov 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Nov 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Nov 2004": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Dec 2004": {
+    "players": [
+      "Joginder Sharma",
+      "MS Dhoni",
+      "S Sriram"
+    ],
+    "avg_age": 24.53333333333333
+  },
+  "26 Dec 2004": {
+    "players": [
+      "Joginder Sharma",
+      "MS Dhoni",
+      "M Kartik",
+      "S Sriram"
+    ],
+    "avg_age": 25.475
+  },
+  "27 Dec 2004": {
+    "players": [
+      "Joginder Sharma",
+      "MS Dhoni"
+    ],
+    "avg_age": 22.35
+  },
+  "08 Mar 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Mar 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Apr 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 23.8
+  },
+  "09 Apr 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 23.8
+  },
+  "12 Apr 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 23.8
+  },
+  "15 Apr 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 23.8
+  },
+  "17 Apr 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 23.8
+  },
+  "30 Jul 2005": {
+    "players": [
+      "SK Raina",
+      "MS Dhoni",
+      "Y Venugopal Rao"
+    ],
+    "avg_age": 22.066666666666663
+  },
+  "03 Aug 2005": {
+    "players": [
+      "SK Raina",
+      "MS Dhoni"
+    ],
+    "avg_age": 21.4
+  },
+  "07 Aug 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 24.1
+  },
+  "09 Aug 2005": {
+    "players": [
+      "MS Dhoni"
+    ],
+    "avg_age": 24.1
+  },
+  "26 Aug 2005": {
+    "players": [
+      "Jai P Yadav",
+      "Y Venugopal Rao",
+      "MS Dhoni"
+    ],
+    "avg_age": 26.266666666666666
+  },
+  "02 Sep 2005": {
+    "players": [
+      "Jai P Yadav",
+      "MS Dhoni"
+    ],
+    "avg_age": 27.65
+  },
+  "04 Sep 2005": {
+    "players": [
+      "Jai P Yadav",
+      "Y Venugopal Rao",
+      "MS Dhoni",
+      "RP Singh"
+    ],
+    "avg_age": 24.65
+  },
+  "06 Sep 2005": {
+    "players": [
+      "Jai P Yadav",
+      "Y Venugopal Rao",
+      "MS Dhoni"
+    ],
+    "avg_age": 26.266666666666666
+  },
+  "13 Sep 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "25 Oct 2005": {
+    "players": [
+      "Jai P Yadav",
+      "Y Venugopal Rao",
+      "S Sreesanth",
+      "MS Dhoni"
+    ],
+    "avg_age": 25.474999999999998
+  },
+  "06 Nov 2005": {
+    "players": [
+      "Jai P Yadav",
+      "G Gambhir",
+      "Y Venugopal Rao",
+      "S Sreesanth",
+      "MS Dhoni",
+      "RP Singh",
+      "SK Raina"
+    ],
+    "avg_age": 23.6
+  },
+  "09 Nov 2005": {
+    "players": [
+      "G Gambhir",
+      "SK Raina",
+      "S Sreesanth",
+      "MS Dhoni",
+      "RP Singh"
+    ],
+    "avg_age": 22.040000000000003
+  },
+  "12 Nov 2005": {
+    "players": [
+      "SK Raina",
+      "MS Dhoni",
+      "RP Singh"
+    ],
+    "avg_age": 21.099999999999998
+  },
+  "19 Nov 2005": {
+    "players": [
+      "G Gambhir",
+      "RP Singh"
+    ],
+    "avg_age": 22.05
+  },
+  "25 Nov 2005": {
+    "players": [
+      "G Gambhir",
+      "RP Singh"
+    ],
+    "avg_age": 22.05
+  },
+  "28 Nov 2005": {
+    "players": [
+      "G Gambhir",
+      "RP Singh"
+    ],
+    "avg_age": 22.05
+  },
+  "02 Dec 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Dec 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Dec 2005": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Jan 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Jan 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "29 Jan 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Feb 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth"
+    ],
+    "avg_age": 21.1
+  },
+  "13 Feb 2006": {
+    "players": [
+      "G Gambhir",
+      "SK Raina",
+      "S Sreesanth",
+      "RP Singh"
+    ],
+    "avg_age": 21.7
+  },
+  "19 Feb 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "RP Singh",
+      "RR Powar"
+    ],
+    "avg_age": 22.575
+  },
+  "01 Mar 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Mar 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Mar 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Mar 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "RP Singh"
+    ],
+    "avg_age": 20.933333333333334
+  },
+  "31 Mar 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "RR Powar"
+    ],
+    "avg_age": 23.5
+  },
+  "03 Apr 2006": {
+    "players": [
+      "SK Raina",
+      "RR Powar",
+      "MM Patel"
+    ],
+    "avg_age": 23.333333333333332
+  },
+  "06 Apr 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "RR Powar"
+    ],
+    "avg_age": 23.5
+  },
+  "12 Apr 2006": {
+    "players": [
+      "Y Venugopal Rao",
+      "SK Raina",
+      "VRV Singh",
+      "RP Singh",
+      "RR Powar",
+      "MM Patel"
+    ],
+    "avg_age": 22.700000000000003
+  },
+  "15 Apr 2006": {
+    "players": [
+      "KD Karthik",
+      "Y Venugopal Rao",
+      "S Sreesanth",
+      "RV Uthappa",
+      "SK Raina",
+      "VRV Singh",
+      "RP Singh",
+      "RR Powar"
+    ],
+    "avg_age": 22.2375
+  },
+  "18 Apr 2006": {
+    "players": [
+      "Y Venugopal Rao",
+      "S Sreesanth",
+      "RV Uthappa",
+      "SK Raina",
+      "RR Powar"
+    ],
+    "avg_age": 23.02
+  },
+  "19 Apr 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "Y Venugopal Rao",
+      "RR Powar"
+    ],
+    "avg_age": 23.674999999999997
+  },
+  "18 May 2006": {
+    "players": [
+      "SK Raina",
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 20.966666666666665
+  },
+  "20 May 2006": {
+    "players": [
+      "SK Raina",
+      "RR Powar",
+      "MM Patel"
+    ],
+    "avg_age": 23.46666666666667
+  },
+  "23 May 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "Y Venugopal Rao",
+      "RR Powar"
+    ],
+    "avg_age": 23.775
+  },
+  "26 May 2006": {
+    "players": [
+      "SK Raina",
+      "S Sreesanth",
+      "RR Powar"
+    ],
+    "avg_age": 23.599999999999998
+  },
+  "28 May 2006": {
+    "players": [
+      "S Sreesanth",
+      "RV Uthappa",
+      "MM Patel"
+    ],
+    "avg_age": 22.26666666666667
+  },
+  "02 Jun 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Jun 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "22 Jun 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Aug 2006": {
+    "players": [
+      "RR Powar",
+      "MM Patel"
+    ],
+    "avg_age": 25.700000000000003
+  },
+  "14 Sep 2006": {
+    "players": [
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 22
+  },
+  "16 Sep 2006": {
+    "players": [
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 22
+  },
+  "20 Sep 2006": {
+    "players": [
+      "S Sreesanth",
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 22.533333333333335
+  },
+  "22 Sep 2006": {
+    "players": [
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 22
+  },
+  "15 Oct 2006": {
+    "players": [
+      "RR Powar",
+      "MM Patel"
+    ],
+    "avg_age": 25.85
+  },
+  "26 Oct 2006": {
+    "players": [
+      "RP Singh",
+      "MM Patel"
+    ],
+    "avg_age": 22.1
+  },
+  "29 Oct 2006": {
+    "players": [
+      "MM Patel"
+    ],
+    "avg_age": 23.3
+  },
+  "22 Nov 2006": {
+    "players": [
+      "W Jaffer",
+      "MM Patel"
+    ],
+    "avg_age": 26.1
+  },
+  "26 Nov 2006": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 21.5
+  },
+  "29 Nov 2006": {
+    "players": [
+      "KD Karthik",
+      "W Jaffer"
+    ],
+    "avg_age": 25.15
+  },
+  "01 Dec 2006": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 21.5
+  },
+  "03 Dec 2006": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 21.5
+  },
+  "15 Dec 2006": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Jan 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Jan 2007": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 21.7
+  },
+  "24 Jan 2007": {
+    "players": [
+      "RR Powar",
+      "Joginder Sharma",
+      "KD Karthik"
+    ],
+    "avg_age": 24.566666666666666
+  },
+  "27 Jan 2007": {
+    "players": [
+      "RV Uthappa",
+      "RR Powar",
+      "KD Karthik"
+    ],
+    "avg_age": 23.866666666666664
+  },
+  "31 Jan 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.2
+  },
+  "08 Feb 2007": {
+    "players": [
+      "RV Uthappa",
+      "KD Karthik"
+    ],
+    "avg_age": 21.5
+  },
+  "11 Feb 2007": {
+    "players": [
+      "KD Karthik",
+      "RV Uthappa"
+    ],
+    "avg_age": 21.5
+  },
+  "14 Feb 2007": {
+    "players": [
+      "KD Karthik"
+    ],
+    "avg_age": 21.7
+  },
+  "17 Feb 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.3
+  },
+  "17 Mar 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.4
+  },
+  "19 Mar 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.4
+  },
+  "23 Mar 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.4
+  },
+  "10 May 2007": {
+    "players": [
+      "RR Powar"
+    ],
+    "avg_age": 29
+  },
+  "12 May 2007": {
+    "players": [
+      "PP Chawla",
+      "RR Powar"
+    ],
+    "avg_age": 23.7
+  },
+  "18 May 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "25 May 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Jun 2007": {
+    "players": [
+      "PP Chawla",
+      "RG Sharma"
+    ],
+    "avg_age": 19.35
+  },
+  "26 Jun 2007": {
+    "players": [
+      "PP Chawla",
+      "RG Sharma"
+    ],
+    "avg_age": 19.35
+  },
+  "29 Jun 2007": {
+    "players": [
+      "I Sharma",
+      "PP Chawla"
+    ],
+    "avg_age": 18.65
+  },
+  "01 Jul 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.5
+  },
+  "19 Jul 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Aug 2007": {
+    "players": [
+      "RV Uthappa",
+      "PP Chawla"
+    ],
+    "avg_age": 20.25
+  },
+  "21 Aug 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.7
+  },
+  "24 Aug 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.7
+  },
+  "27 Aug 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.7
+  },
+  "30 Aug 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.7
+  },
+  "02 Sep 2007": {
+    "players": [
+      "PP Chawla"
+    ],
+    "avg_age": 18.7
+  },
+  "05 Sep 2007": {
+    "players": [
+      "RV Uthappa",
+      "PP Chawla"
+    ],
+    "avg_age": 20.25
+  },
+  "08 Sep 2007": {
+    "players": [
+      "RV Uthappa",
+      "PP Chawla"
+    ],
+    "avg_age": 20.25
+  },
+  "13 Sep 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.9
+  },
+  "19 Sep 2007": {
+    "players": [
+      "Joginder Sharma",
+      "RG Sharma",
+      "RV Uthappa"
+    ],
+    "avg_age": 22.066666666666663
+  },
+  "20 Sep 2007": {
+    "players": [
+      "Joginder Sharma",
+      "RV Uthappa",
+      "RG Sharma"
+    ],
+    "avg_age": 22.066666666666663
+  },
+  "22 Sep 2007": {
+    "players": [
+      "Joginder Sharma",
+      "RV Uthappa",
+      "RG Sharma"
+    ],
+    "avg_age": 22.066666666666663
+  },
+  "24 Sep 2007": {
+    "players": [
+      "YK Pathan",
+      "Joginder Sharma",
+      "RV Uthappa",
+      "RG Sharma"
+    ],
+    "avg_age": 22.775
+  },
+  "29 Sep 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Oct 2007": {
+    "players": [
+      "RV Uthappa"
+    ],
+    "avg_age": 21.9
+  },
+  "05 Oct 2007": {
+    "players": [
+      "RG Sharma"
+    ],
+    "avg_age": 20.4
+  },
+  "08 Oct 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Oct 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "17 Oct 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Oct 2007": {
+    "players": [
+      "RG Sharma"
+    ],
+    "avg_age": 20.5
+  },
+  "05 Nov 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "08 Nov 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Nov 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "15 Nov 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Nov 2007": {
+    "players": [
+      "P Kumar",
+      "RG Sharma"
+    ],
+    "avg_age": 20.85
+  },
+  "22 Nov 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "08 Dec 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Dec 2007": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Jan 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Jan 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Jan 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "RG Sharma"
+    ],
+    "avg_age": 20.5
+  },
+  "03 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "RG Sharma",
+      "MK Tiwary"
+    ],
+    "avg_age": 20.8
+  },
+  "05 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "RG Sharma"
+    ],
+    "avg_age": 20.1
+  },
+  "17 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "RG Sharma"
+    ],
+    "avg_age": 20.15
+  },
+  "19 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "RG Sharma"
+    ],
+    "avg_age": 20.566666666666666
+  },
+  "24 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "RG Sharma"
+    ],
+    "avg_age": 20.15
+  },
+  "26 Feb 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "RG Sharma"
+    ],
+    "avg_age": 20.566666666666666
+  },
+  "02 Mar 2008": {
+    "players": [
+      "P Kumar",
+      "PP Chawla",
+      "RG Sharma",
+      "I Sharma"
+    ],
+    "avg_age": 20.25
+  },
+  "04 Mar 2008": {
+    "players": [
+      "P Kumar",
+      "PP Chawla",
+      "RG Sharma"
+    ],
+    "avg_age": 20.499999999999996
+  },
+  "26 Mar 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Apr 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Apr 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Jun 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "PP Chawla",
+      "RG Sharma",
+      "YK Pathan"
+    ],
+    "avg_age": 21.54
+  },
+  "12 Jun 2008": {
+    "players": [
+      "P Kumar",
+      "PP Chawla",
+      "RG Sharma",
+      "YK Pathan"
+    ],
+    "avg_age": 21.975
+  },
+  "14 Jun 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "PP Chawla",
+      "YK Pathan"
+    ],
+    "avg_age": 21.65
+  },
+  "25 Jun 2008": {
+    "players": [
+      "P Kumar",
+      "YK Pathan",
+      "MS Gony"
+    ],
+    "avg_age": 23.933333333333334
+  },
+  "26 Jun 2008": {
+    "players": [
+      "YK Pathan",
+      "P Kumar",
+      "I Sharma"
+    ],
+    "avg_age": 22.366666666666664
+  },
+  "28 Jun 2008": {
+    "players": [
+      "YK Pathan",
+      "PP Ojha",
+      "MS Gony",
+      "I Sharma"
+    ],
+    "avg_age": 22.925
+  },
+  "02 Jul 2008": {
+    "players": [
+      "I Sharma",
+      "P Kumar",
+      "YK Pathan"
+    ],
+    "avg_age": 22.400000000000002
+  },
+  "03 Jul 2008": {
+    "players": [
+      "PP Ojha",
+      "P Kumar"
+    ],
+    "avg_age": 21.8
+  },
+  "06 Jul 2008": {
+    "players": [
+      "PP Ojha"
+    ],
+    "avg_age": 21.8
+  },
+  "23 Jul 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "08 Aug 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Aug 2008": {
+    "players": [
+      "PP Ojha",
+      "V Kohli"
+    ],
+    "avg_age": 20.9
+  },
+  "20 Aug 2008": {
+    "players": [
+      "S Badrinath",
+      "P Kumar",
+      "V Kohli"
+    ],
+    "avg_age": 23.233333333333334
+  },
+  "24 Aug 2008": {
+    "players": [
+      "S Badrinath",
+      "P Kumar",
+      "V Kohli"
+    ],
+    "avg_age": 23.233333333333334
+  },
+  "29 Aug 2008": {
+    "players": [
+      "PP Ojha",
+      "V Kohli"
+    ],
+    "avg_age": 20.9
+  },
+  "09 Oct 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "17 Oct 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "29 Oct 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Nov 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Nov 2008": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26
+  },
+  "20 Nov 2008": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26
+  },
+  "23 Nov 2008": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26
+  },
+  "26 Nov 2008": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26
+  },
+  "11 Dec 2008": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Jan 2009": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26.2
+  },
+  "31 Jan 2009": {
+    "players": [
+      "PP Ojha",
+      "P Kumar",
+      "YK Pathan"
+    ],
+    "avg_age": 23.633333333333336
+  },
+  "05 Feb 2009": {
+    "players": [
+      "PP Ojha",
+      "P Kumar",
+      "YK Pathan"
+    ],
+    "avg_age": 23.666666666666668
+  },
+  "08 Feb 2009": {
+    "players": [
+      "RA Jadeja",
+      "YK Pathan"
+    ],
+    "avg_age": 23.2
+  },
+  "10 Feb 2009": {
+    "players": [
+      "RA Jadeja",
+      "YK Pathan"
+    ],
+    "avg_age": 23.25
+  },
+  "25 Feb 2009": {
+    "players": [
+      "YK Pathan"
+    ],
+    "avg_age": 26.3
+  },
+  "27 Feb 2009": {
+    "players": [
+      "RA Jadeja",
+      "YK Pathan"
+    ],
+    "avg_age": 23.25
+  },
+  "03 Mar 2009": {
+    "players": [
+      "YK Pathan",
+      "P Kumar"
+    ],
+    "avg_age": 24.35
+  },
+  "11 Mar 2009": {
+    "players": [
+      "P Kumar"
+    ],
+    "avg_age": 22.5
+  },
+  "18 Mar 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Mar 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Apr 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Jun 2009": {
+    "players": [
+      "PP Ojha"
+    ],
+    "avg_age": 22.8
+  },
+  "14 Jun 2009": {
+    "players": [
+      "RA Jadeja"
+    ],
+    "avg_age": 20.5
+  },
+  "26 Jun 2009": {
+    "players": [
+      "RA Jadeja"
+    ],
+    "avg_age": 20.6
+  },
+  "28 Jun 2009": {
+    "players": [
+      "P Kumar",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.700000000000003
+  },
+  "03 Jul 2009": {
+    "players": [
+      "AM Nayar"
+    ],
+    "avg_age": 25.8
+  },
+  "11 Sep 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Sep 2009": {
+    "players": [
+      "V Kohli"
+    ],
+    "avg_age": 20.9
+  },
+  "26 Sep 2009": {
+    "players": [
+      "V Kohli"
+    ],
+    "avg_age": 20.9
+  },
+  "28 Sep 2009": {
+    "players": [
+      "V Kohli",
+      "A Mishra"
+    ],
+    "avg_age": 23.9
+  },
+  "30 Sep 2009": {
+    "players": [
+      "AM Nayar",
+      "V Kohli",
+      "A Mishra"
+    ],
+    "avg_age": 24.599999999999998
+  },
+  "25 Oct 2009": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 20.95
+  },
+  "28 Oct 2009": {
+    "players": [
+      "RA Jadeja"
+    ],
+    "avg_age": 20.9
+  },
+  "02 Nov 2009": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 20.95
+  },
+  "05 Nov 2009": {
+    "players": [
+      "RA Jadeja"
+    ],
+    "avg_age": 20.9
+  },
+  "16 Nov 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Nov 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Dec 2009": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Dec 2009": {
+    "players": [
+      "PP Ojha",
+      "AB Dinda"
+    ],
+    "avg_age": 24.5
+  },
+  "12 Dec 2009": {
+    "players": [
+      "S Tyagi",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.65
+  },
+  "15 Dec 2009": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.05
+  },
+  "21 Dec 2009": {
+    "players": [
+      "RA Jadeja"
+    ],
+    "avg_age": 21.1
+  },
+  "24 Dec 2009": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.1
+  },
+  "27 Dec 2009": {
+    "players": [
+      "S Tyagi",
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.53333333333333
+  },
+  "05 Jan 2010": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.15
+  },
+  "10 Jan 2010": {
+    "players": [
+      "S Tyagi",
+      "V Kohli",
+      "A Mishra",
+      "RA Jadeja"
+    ],
+    "avg_age": 22.924999999999997
+  },
+  "11 Jan 2010": {
+    "players": [
+      "S Tyagi",
+      "V Kohli",
+      "A Mishra",
+      "RA Jadeja"
+    ],
+    "avg_age": 22.950000000000003
+  },
+  "13 Jan 2010": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.15
+  },
+  "17 Jan 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Jan 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Feb 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Feb 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Feb 2010": {
+    "players": [
+      "V Kohli",
+      "RA Jadeja"
+    ],
+    "avg_age": 21.25
+  },
+  "27 Feb 2010": {
+    "players": [
+      "M Vijay",
+      "A Mithun",
+      "S Tyagi",
+      "V Kohli"
+    ],
+    "avg_age": 22.525
+  },
+  "01 May 2010": {
+    "players": [
+      "M Vijay"
+    ],
+    "avg_age": 26.1
+  },
+  "02 May 2010": {
+    "players": [
+      "M Vijay"
+    ],
+    "avg_age": 26.1
+  },
+  "07 May 2010": {
+    "players": [
+      "M Vijay"
+    ],
+    "avg_age": 26.1
+  },
+  "11 May 2010": {
+    "players": [
+      "R Vinay Kumar"
+    ],
+    "avg_age": 26.3
+  },
+  "28 May 2010": {
+    "players": [
+      "M Vijay",
+      "R Vinay Kumar",
+      "UT Yadav",
+      "AB Dinda",
+      "V Kohli",
+      "A Mishra"
+    ],
+    "avg_age": 25.066666666666666
+  },
+  "30 May 2010": {
+    "players": [
+      "M Vijay",
+      "AB Dinda",
+      "UT Yadav",
+      "PP Ojha",
+      "A Mishra"
+    ],
+    "avg_age": 25.240000000000002
+  },
+  "05 Jun 2010": {
+    "players": [
+      "PP Ojha",
+      "AB Dinda",
+      "Pankaj Singh",
+      "R Ashwin",
+      "NV Ojha"
+    ],
+    "avg_age": 25.139999999999997
+  },
+  "12 Jun 2010": {
+    "players": [
+      "M Vijay",
+      "PP Ojha",
+      "R Vinay Kumar",
+      "AB Dinda",
+      "R Ashwin",
+      "NV Ojha"
+    ],
+    "avg_age": 25.53333333333333
+  },
+  "13 Jun 2010": {
+    "players": [
+      "M Vijay",
+      "PP Ojha",
+      "R Vinay Kumar",
+      "AB Dinda",
+      "R Ashwin",
+      "NV Ojha",
+      "A Mishra"
+    ],
+    "avg_age": 25.842857142857145
+  },
+  "16 Jun 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "22 Jun 2010": {
+    "players": [
+      "AB Dinda",
+      "PP Ojha"
+    ],
+    "avg_age": 25.05
+  },
+  "24 Jun 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Jul 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Jul 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Aug 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Aug 2010": {
+    "players": [
+      "A Mithun"
+    ],
+    "avg_age": 20.8
+  },
+  "16 Aug 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "22 Aug 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "25 Aug 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Aug 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Oct 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Oct 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Oct 2010": {
+    "players": [
+      "M Vijay",
+      "S Dhawan",
+      "R Vinay Kumar",
+      "R Ashwin",
+      "SS Tiwary"
+    ],
+    "avg_age": 24.62
+  },
+  "04 Nov 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Nov 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Nov 2010": {
+    "players": [
+      "M Vijay",
+      "R Ashwin",
+      "WP Saha"
+    ],
+    "avg_age": 25.666666666666668
+  },
+  "04 Dec 2010": {
+    "players": [
+      "M Vijay",
+      "R Ashwin",
+      "WP Saha"
+    ],
+    "avg_age": 25.666666666666668
+  },
+  "07 Dec 2010": {
+    "players": [
+      "R Ashwin",
+      "SS Tiwary"
+    ],
+    "avg_age": 22.6
+  },
+  "10 Dec 2010": {
+    "players": [
+      "R Ashwin",
+      "SS Tiwary"
+    ],
+    "avg_age": 22.6
+  },
+  "16 Dec 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Dec 2010": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Jan 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Jan 2011": {
+    "players": [
+      "R Ashwin"
+    ],
+    "avg_age": 24.3
+  },
+  "12 Jan 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Jan 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Jan 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Jan 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "19 Feb 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "27 Feb 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Mar 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "12 Mar 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Mar 2011": {
+    "players": [
+      "R Ashwin"
+    ],
+    "avg_age": 24.5
+  },
+  "24 Mar 2011": {
+    "players": [
+      "R Ashwin"
+    ],
+    "avg_age": 24.5
+  },
+  "30 Mar 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Apr 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "04 Jun 2011": {
+    "players": [
+      "S Dhawan",
+      "S Badrinath",
+      "R Ashwin"
+    ],
+    "avg_age": 27
+  },
+  "06 Jun 2011": {
+    "players": [
+      "S Dhawan",
+      "S Badrinath",
+      "A Mishra"
+    ],
+    "avg_age": 28.3
+  },
+  "13 Jun 2011": {
+    "players": [
+      "S Badrinath",
+      "R Ashwin",
+      "MK Tiwary"
+    ],
+    "avg_age": 27.066666666666666
+  },
+  "16 Jun 2011": {
+    "players": [
+      "S Dhawan",
+      "R Vinay Kumar",
+      "R Ashwin",
+      "MK Tiwary"
+    ],
+    "avg_age": 25.825000000000003
+  },
+  "20 Jun 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Jun 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Jul 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Jul 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "29 Jul 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Aug 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Aug 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "31 Aug 2011": {
+    "players": [
+      "R Ashwin",
+      "R Vinay Kumar",
+      "AM Rahane"
+    ],
+    "avg_age": 25.266666666666666
+  },
+  "06 Sep 2011": {
+    "players": [
+      "R Ashwin",
+      "R Vinay Kumar",
+      "AM Rahane",
+      "MK Tiwary"
+    ],
+    "avg_age": 25.425
+  },
+  "09 Sep 2011": {
+    "players": [
+      "R Ashwin",
+      "AM Rahane"
+    ],
+    "avg_age": 24.15
+  },
+  "16 Sep 2011": {
+    "players": [
+      "R Ashwin",
+      "R Vinay Kumar",
+      "AM Rahane"
+    ],
+    "avg_age": 25.3
+  },
+  "14 Oct 2011": {
+    "players": [
+      "UT Yadav",
+      "R Vinay Kumar",
+      "R Ashwin",
+      "AM Rahane"
+    ],
+    "avg_age": 25.050000000000004
+  },
+  "23 Oct 2011": {
+    "players": [
+      "R Vinay Kumar",
+      "R Ashwin",
+      "VR Aaron",
+      "AM Rahane"
+    ],
+    "avg_age": 24.549999999999997
+  },
+  "25 Oct 2011": {
+    "players": [
+      "R Vinay Kumar",
+      "AM Rahane",
+      "VR Aaron",
+      "MK Tiwary"
+    ],
+    "avg_age": 24.775
+  },
+  "29 Oct 2011": {
+    "players": [
+      "R Vinay Kumar",
+      "AM Rahane",
+      "MK Tiwary"
+    ],
+    "avg_age": 25.7
+  },
+  "06 Nov 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "22 Nov 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "29 Nov 2011": {
+    "players": [
+      "R Vinay Kumar",
+      "VR Aaron",
+      "UT Yadav"
+    ],
+    "avg_age": 24.666666666666668
+  },
+  "05 Dec 2011": {
+    "players": [
+      "A Mithun",
+      "R Vinay Kumar",
+      "UT Yadav"
+    ],
+    "avg_age": 24.666666666666668
+  },
+  "08 Dec 2011": {
+    "players": [
+      "A Mithun",
+      "R Vinay Kumar",
+      "R Sharma"
+    ],
+    "avg_age": 24.96666666666667
+  },
+  "11 Dec 2011": {
+    "players": [
+      "A Mithun",
+      "R Sharma",
+      "AM Rahane",
+      "MK Tiwary"
+    ],
+    "avg_age": 24.174999999999997
+  },
+  "26 Dec 2011": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Jan 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Jan 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Feb 2012": {
+    "players": [
+      "R Vinay Kumar",
+      "R Sharma"
+    ],
+    "avg_age": 26.6
+  },
+  "05 Feb 2012": {
+    "players": [
+      "R Vinay Kumar",
+      "R Sharma"
+    ],
+    "avg_age": 26.6
+  },
+  "08 Feb 2012": {
+    "players": [
+      "R Vinay Kumar"
+    ],
+    "avg_age": 28
+  },
+  "12 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.3
+  },
+  "14 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.3
+  },
+  "19 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.3
+  },
+  "21 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.3
+  },
+  "26 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.4
+  },
+  "28 Feb 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.4
+  },
+  "13 Mar 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Mar 2012": {
+    "players": [
+      "AB Dinda"
+    ],
+    "avg_age": 28
+  },
+  "18 Mar 2012": {
+    "players": [
+      "AB Dinda"
+    ],
+    "avg_age": 28
+  },
+  "30 Mar 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Jul 2012": {
+    "players": [
+      "UT Yadav"
+    ],
+    "avg_age": 24.8
+  },
+  "28 Jul 2012": {
+    "players": [
+      "AB Dinda",
+      "R Sharma"
+    ],
+    "avg_age": 27.049999999999997
+  },
+  "31 Jul 2012": {
+    "players": [
+      "AB Dinda",
+      "MK Tiwary"
+    ],
+    "avg_age": 27.549999999999997
+  },
+  "04 Aug 2012": {
+    "players": [
+      "AB Dinda",
+      "AM Rahane",
+      "MK Tiwary"
+    ],
+    "avg_age": 26.433333333333334
+  },
+  "07 Aug 2012": {
+    "players": [
+      "UT Yadav",
+      "AB Dinda",
+      "AM Rahane",
+      "MK Tiwary"
+    ],
+    "avg_age": 26.025000000000002
+  },
+  "23 Aug 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Sep 2012": {
+    "players": [
+      "MK Tiwary"
+    ],
+    "avg_age": 26.8
+  },
+  "19 Sep 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Sep 2012": {
+    "players": [
+      "AB Dinda"
+    ],
+    "avg_age": 28.5
+  },
+  "28 Sep 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "30 Sep 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "15 Nov 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Nov 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "05 Dec 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Dec 2012": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Dec 2012": {
+    "players": [
+      "AB Dinda",
+      "P Awana",
+      "AM Rahane"
+    ],
+    "avg_age": 26.600000000000005
+  },
+  "22 Dec 2012": {
+    "players": [
+      "P Awana",
+      "AB Dinda",
+      "AM Rahane"
+    ],
+    "avg_age": 26.600000000000005
+  },
+  "25 Dec 2012": {
+    "players": [
+      "AB Dinda",
+      "B Kumar",
+      "AM Rahane"
+    ],
+    "avg_age": 25.433333333333337
+  },
+  "28 Dec 2012": {
+    "players": [
+      "AB Dinda",
+      "B Kumar",
+      "AM Rahane"
+    ],
+    "avg_age": 25.433333333333337
+  },
+  "30 Dec 2012": {
+    "players": [
+      "AB Dinda",
+      "B Kumar"
+    ],
+    "avg_age": 25.85
+  },
+  "03 Jan 2013": {
+    "players": [
+      "AB Dinda",
+      "B Kumar"
+    ],
+    "avg_age": 25.85
+  },
+  "06 Jan 2013": {
+    "players": [
+      "B Kumar",
+      "AM Rahane",
+      "Mohammed Shami"
+    ],
+    "avg_age": 23.3
+  },
+  "11 Jan 2013": {
+    "players": [
+      "B Kumar",
+      "AM Rahane"
+    ],
+    "avg_age": 23.75
+  },
+  "15 Jan 2013": {
+    "players": [
+      "B Kumar",
+      "AM Rahane",
+      "Mohammed Shami"
+    ],
+    "avg_age": 23.333333333333332
+  },
+  "23 Jan 2013": {
+    "players": [
+      "B Kumar",
+      "Mohammed Shami"
+    ],
+    "avg_age": 22.7
+  },
+  "22 Feb 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Mar 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "22 Mar 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Jun 2013": {
+    "players": [
+      "UT Yadav",
+      "S Dhawan",
+      "B Kumar"
+    ],
+    "avg_age": 25.46666666666667
+  },
+  "02 Jul 2013": {
+    "players": [
+      "S Dhawan",
+      "Mohammed Shami"
+    ],
+    "avg_age": 25.200000000000003
+  },
+  "05 Jul 2013": {
+    "players": [
+      "S Dhawan",
+      "B Kumar"
+    ],
+    "avg_age": 25.5
+  },
+  "11 Jul 2013": {
+    "players": [
+      "S Dhawan",
+      "B Kumar"
+    ],
+    "avg_age": 25.5
+  },
+  "24 Jul 2013": {
+    "players": [
+      "AT Rayudu",
+      "JD Unadkat",
+      "S Dhawan",
+      "Mohammed Shami"
+    ],
+    "avg_age": 25.075000000000003
+  },
+  "01 Aug 2013": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu",
+      "CA Pujara",
+      "Mohammed Shami",
+      "JD Unadkat"
+    ],
+    "avg_age": 24.599999999999998
+  },
+  "03 Aug 2013": {
+    "players": [
+      "MM Sharma",
+      "S Dhawan",
+      "JD Unadkat",
+      "CA Pujara",
+      "AM Rahane",
+      "Mohammed Shami"
+    ],
+    "avg_age": 24.666666666666668
+  },
+  "10 Oct 2013": {
+    "players": [
+      "S Dhawan",
+      "B Kumar"
+    ],
+    "avg_age": 25.799999999999997
+  },
+  "23 Oct 2013": {
+    "players": [
+      "S Dhawan",
+      "JD Unadkat",
+      "Mohammed Shami"
+    ],
+    "avg_age": 24.366666666666664
+  },
+  "30 Oct 2013": {
+    "players": [
+      "S Dhawan",
+      "B Kumar",
+      "Mohammed Shami"
+    ],
+    "avg_age": 24.933333333333334
+  },
+  "02 Nov 2013": {
+    "players": [
+      "S Dhawan",
+      "B Kumar",
+      "Mohammed Shami"
+    ],
+    "avg_age": 24.96666666666667
+  },
+  "06 Nov 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "21 Nov 2013": {
+    "players": [
+      "S Dhawan",
+      "JD Unadkat",
+      "B Kumar",
+      "Mohammed Shami"
+    ],
+    "avg_age": 24.275000000000002
+  },
+  "24 Nov 2013": {
+    "players": [
+      "MM Sharma",
+      "S Dhawan",
+      "B Kumar",
+      "Mohammed Shami"
+    ],
+    "avg_age": 25.05
+  },
+  "08 Dec 2013": {
+    "players": [
+      "S Dhawan",
+      "Mohammed Shami"
+    ],
+    "avg_age": 25.65
+  },
+  "11 Dec 2013": {
+    "players": [
+      "S Dhawan",
+      "Mohammed Shami"
+    ],
+    "avg_age": 25.65
+  },
+  "18 Dec 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Dec 2013": {
+    "players": [],
+    "avg_age": null
+  },
+  "19 Jan 2014": {
+    "players": [
+      "Mohammed Shami"
+    ],
+    "avg_age": 23.4
+  },
+  "25 Jan 2014": {
+    "players": [
+      "VR Aaron",
+      "Mohammed Shami"
+    ],
+    "avg_age": 23.85
+  },
+  "28 Jan 2014": {
+    "players": [
+      "AT Rayudu",
+      "STR Binny",
+      "VR Aaron",
+      "Mohammed Shami"
+    ],
+    "avg_age": 26.449999999999996
+  },
+  "31 Jan 2014": {
+    "players": [
+      "AT Rayudu",
+      "VR Aaron"
+    ],
+    "avg_age": 26.35
+  },
+  "06 Feb 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Feb 2014": {
+    "players": [
+      "AT Rayudu",
+      "VR Aaron"
+    ],
+    "avg_age": 26.35
+  },
+  "28 Feb 2014": {
+    "players": [
+      "AT Rayudu",
+      "STR Binny"
+    ],
+    "avg_age": 29.15
+  },
+  "02 Mar 2014": {
+    "players": [
+      "AT Rayudu"
+    ],
+    "avg_age": 28.5
+  },
+  "21 Mar 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "30 Mar 2014": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 25.5
+  },
+  "15 Jun 2014": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu",
+      "AR Patel",
+      "CA Pujara",
+      "WP Saha",
+      "Parvez Rasool"
+    ],
+    "avg_age": 26.066666666666666
+  },
+  "17 Jun 2014": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu",
+      "AR Patel",
+      "STR Binny",
+      "CA Pujara",
+      "WP Saha"
+    ],
+    "avg_age": 26.866666666666664
+  },
+  "19 Jun 2014": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu",
+      "AR Patel",
+      "STR Binny",
+      "CA Pujara",
+      "WP Saha",
+      "MK Tiwary"
+    ],
+    "avg_age": 27.11428571428571
+  },
+  "09 Jul 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "27 Jul 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "07 Aug 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "15 Aug 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "27 Aug 2014": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 26
+  },
+  "30 Aug 2014": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu"
+    ],
+    "avg_age": 27.5
+  },
+  "02 Sep 2014": {
+    "players": [
+      "AT Rayudu",
+      "DS Kulkarni"
+    ],
+    "avg_age": 27.35
+  },
+  "05 Sep 2014": {
+    "players": [
+      "AT Rayudu"
+    ],
+    "avg_age": 29
+  },
+  "07 Sep 2014": {
+    "players": [
+      "MM Sharma",
+      "KV Sharma",
+      "AT Rayudu"
+    ],
+    "avg_age": 27.3
+  },
+  "08 Oct 2014": {
+    "players": [
+      "MM Sharma",
+      "AT Rayudu"
+    ],
+    "avg_age": 27.6
+  },
+  "11 Oct 2014": {
+    "players": [
+      "AT Rayudu"
+    ],
+    "avg_age": 29.1
+  },
+  "17 Oct 2014": {
+    "players": [
+      "AR Patel",
+      "AT Rayudu"
+    ],
+    "avg_age": 24.950000000000003
+  },
+  "02 Nov 2014": {
+    "players": [
+      "AT Rayudu",
+      "AR Patel",
+      "WP Saha",
+      "VR Aaron"
+    ],
+    "avg_age": 26.225
+  },
+  "06 Nov 2014": {
+    "players": [
+      "AT Rayudu",
+      "AR Patel",
+      "WP Saha"
+    ],
+    "avg_age": 26.666666666666668
+  },
+  "09 Nov 2014": {
+    "players": [
+      "AT Rayudu",
+      "AR Patel",
+      "DS Kulkarni",
+      "WP Saha"
+    ],
+    "avg_age": 26.475
+  },
+  "13 Nov 2014": {
+    "players": [
+      "AR Patel",
+      "DS Kulkarni",
+      "KV Sharma",
+      "STR Binny"
+    ],
+    "avg_age": 26.075000000000003
+  },
+  "16 Nov 2014": {
+    "players": [
+      "AR Patel",
+      "KM Jadhav",
+      "DS Kulkarni",
+      "KV Sharma",
+      "STR Binny"
+    ],
+    "avg_age": 26.82
+  },
+  "09 Dec 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "17 Dec 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Dec 2014": {
+    "players": [],
+    "avg_age": null
+  },
+  "06 Jan 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Jan 2015": {
+    "players": [
+      "AR Patel"
+    ],
+    "avg_age": 21
+  },
+  "20 Jan 2015": {
+    "players": [
+      "AR Patel",
+      "STR Binny"
+    ],
+    "avg_age": 25.85
+  },
+  "26 Jan 2015": {
+    "players": [
+      "AR Patel",
+      "STR Binny"
+    ],
+    "avg_age": 25.85
+  },
+  "30 Jan 2015": {
+    "players": [
+      "MM Sharma",
+      "AR Patel",
+      "STR Binny"
+    ],
+    "avg_age": 26.03333333333333
+  },
+  "15 Feb 2015": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 26.4
+  },
+  "28 Feb 2015": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 26.5
+  },
+  "06 Mar 2015": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 26.5
+  },
+  "10 Jun 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Jun 2015": {
+    "players": [
+      "MM Sharma"
+    ],
+    "avg_age": 26.8
+  },
+  "21 Jun 2015": {
+    "players": [
+      "AR Patel",
+      "DS Kulkarni"
+    ],
+    "avg_age": 23.95
+  },
+  "24 Jun 2015": {
+    "players": [
+      "AR Patel",
+      "DS Kulkarni",
+      "STR Binny"
+    ],
+    "avg_age": 26.366666666666664
+  },
+  "10 Jul 2015": {
+    "players": [
+      "AR Patel",
+      "KM Jadhav",
+      "DS Kulkarni",
+      "STR Binny",
+      "MK Tiwary"
+    ],
+    "avg_age": 27.839999999999996
+  },
+  "14 Jul 2015": {
+    "players": [
+      "MM Sharma",
+      "AR Patel",
+      "KM Jadhav",
+      "MK Pandey",
+      "STR Binny",
+      "MK Tiwary"
+    ],
+    "avg_age": 27.549999999999997
+  },
+  "17 Jul 2015": {
+    "players": [
+      "MM Sharma",
+      "AR Patel",
+      "KM Jadhav",
+      "Sandeep Sharma",
+      "MK Pandey",
+      "STR Binny"
+    ],
+    "avg_age": 26.299999999999997
+  },
+  "19 Jul 2015": {
+    "players": [
+      "MM Sharma",
+      "AR Patel",
+      "KM Jadhav",
+      "Sandeep Sharma",
+      "SV Samson",
+      "MK Pandey",
+      "STR Binny"
+    ],
+    "avg_age": 25.5
+  },
+  "12 Aug 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Aug 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "28 Aug 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Oct 2015": {
+    "players": [
+      "MM Sharma",
+      "AR Patel",
+      "S Aravind"
+    ],
+    "avg_age": 26.766666666666666
+  },
+  "05 Oct 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "11 Oct 2015": {
+    "players": [
+      "STR Binny"
+    ],
+    "avg_age": 31.4
+  },
+  "14 Oct 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Oct 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "05 Nov 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "14 Nov 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "25 Nov 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Dec 2015": {
+    "players": [],
+    "avg_age": null
+  },
+  "12 Jan 2016": {
+    "players": [
+      "MK Pandey",
+      "BB Sran"
+    ],
+    "avg_age": 24.75
+  },
+  "15 Jan 2016": {
+    "players": [
+      "MK Pandey",
+      "BB Sran"
+    ],
+    "avg_age": 24.75
+  },
+  "17 Jan 2016": {
+    "players": [
+      "BB Sran",
+      "R Dhawan",
+      "Gurkeerat Singh"
+    ],
+    "avg_age": 24.866666666666664
+  },
+  "20 Jan 2016": {
+    "players": [
+      "R Dhawan",
+      "Gurkeerat Singh"
+    ],
+    "avg_age": 25.75
+  },
+  "23 Jan 2016": {
+    "players": [
+      "JJ Bumrah",
+      "R Dhawan",
+      "MK Pandey",
+      "Gurkeerat Singh"
+    ],
+    "avg_age": 25
+  },
+  "26 Jan 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.25
+  },
+  "09 Feb 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.25
+  },
+  "24 Feb 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.299999999999997
+  },
+  "27 Feb 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.299999999999997
+  },
+  "01 Mar 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.299999999999997
+  },
+  "03 Mar 2016": {
+    "players": [
+      "P Negi",
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.633333333333336
+  },
+  "06 Mar 2016": {
+    "players": [
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 22.35
+  },
+  "31 Mar 2016": {
+    "players": [
+      "MK Pandey",
+      "JJ Bumrah",
+      "HH Pandya"
+    ],
+    "avg_age": 23.8
+  },
+  "11 Jun 2016": {
+    "players": [
+      "MK Pandey",
+      "BB Sran",
+      "KM Jadhav",
+      "YS Chahal",
+      "KK Nair",
+      "DS Kulkarni",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 25.7625
+  },
+  "15 Jun 2016": {
+    "players": [
+      "MK Pandey",
+      "BB Sran",
+      "KM Jadhav",
+      "YS Chahal",
+      "DS Kulkarni",
+      "FY Fazal",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 26.55
+  },
+  "18 Jun 2016": {
+    "players": [
+      "R Dhawan",
+      "KM Jadhav",
+      "YS Chahal",
+      "MK Pandey",
+      "Mandeep Singh",
+      "JD Unadkat",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 25.775
+  },
+  "20 Jun 2016": {
+    "players": [
+      "MK Pandey",
+      "BB Sran",
+      "KM Jadhav",
+      "YS Chahal",
+      "DS Kulkarni",
+      "Mandeep Singh",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 25.787499999999998
+  },
+  "21 Jul 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "30 Jul 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "09 Aug 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "18 Aug 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "27 Aug 2016": {
+    "players": [
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 23.549999999999997
+  },
+  "28 Aug 2016": {
+    "players": [
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 23.549999999999997
+  },
+  "22 Sep 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "30 Sep 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "08 Oct 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Oct 2016": {
+    "players": [
+      "JJ Bumrah",
+      "KM Jadhav",
+      "MK Pandey",
+      "HH Pandya"
+    ],
+    "avg_age": 26.15
+  },
+  "26 Oct 2016": {
+    "players": [
+      "MK Pandey",
+      "KM Jadhav",
+      "DS Kulkarni",
+      "HH Pandya"
+    ],
+    "avg_age": 27.424999999999997
+  },
+  "29 Oct 2016": {
+    "players": [
+      "MK Pandey",
+      "JJ Bumrah",
+      "KM Jadhav",
+      "J Yadav"
+    ],
+    "avg_age": 27.124999999999996
+  },
+  "09 Nov 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "17 Nov 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "26 Nov 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "08 Dec 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Dec 2016": {
+    "players": [],
+    "avg_age": null
+  },
+  "15 Jan 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 25.75
+  },
+  "19 Jan 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya",
+      "JJ Bumrah",
+      "KL Rahul"
+    ],
+    "avg_age": 25.75
+  },
+  "22 Jan 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya",
+      "JJ Bumrah"
+    ],
+    "avg_age": 26.066666666666666
+  },
+  "26 Jan 2017": {
+    "players": [
+      "MK Pandey",
+      "YS Chahal",
+      "Parvez Rasool",
+      "HH Pandya"
+    ],
+    "avg_age": 26.3
+  },
+  "29 Jan 2017": {
+    "players": [
+      "YS Chahal",
+      "MK Pandey",
+      "HH Pandya"
+    ],
+    "avg_age": 25.733333333333334
+  },
+  "01 Feb 2017": {
+    "players": [
+      "YS Chahal",
+      "HH Pandya",
+      "RR Pant"
+    ],
+    "avg_age": 23.03333333333333
+  },
+  "09 Feb 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "23 Feb 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "04 Mar 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "16 Mar 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "25 Mar 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "04 Jun 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya"
+    ],
+    "avg_age": 27.950000000000003
+  },
+  "11 Jun 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya"
+    ],
+    "avg_age": 27.950000000000003
+  },
+  "23 Jun 2017": {
+    "players": [
+      "KM Jadhav",
+      "HH Pandya",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 26.166666666666668
+  },
+  "02 Jul 2017": {
+    "players": [
+      "KM Jadhav",
+      "Kuldeep Yadav",
+      "HH Pandya"
+    ],
+    "avg_age": 26.2
+  },
+  "09 Jul 2017": {
+    "players": [
+      "KM Jadhav",
+      "RR Pant",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 24.899999999999995
+  },
+  "26 Jul 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "03 Aug 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "12 Aug 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "20 Aug 2017": {
+    "players": [
+      "YS Chahal"
+    ],
+    "avg_age": 27.1
+  },
+  "31 Aug 2017": {
+    "players": [
+      "MK Pandey",
+      "Kuldeep Yadav",
+      "SN Thakur"
+    ],
+    "avg_age": 25.53333333333333
+  },
+  "03 Sep 2017": {
+    "players": [
+      "SN Thakur",
+      "YS Chahal",
+      "MK Pandey",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 25.925
+  },
+  "06 Sep 2017": {
+    "players": [
+      "YS Chahal",
+      "MK Pandey",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 25.933333333333334
+  },
+  "17 Sep 2017": {
+    "players": [
+      "YS Chahal",
+      "MK Pandey",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 26
+  },
+  "28 Sep 2017": {
+    "players": [
+      "YS Chahal"
+    ],
+    "avg_age": 27.2
+  },
+  "01 Oct 2017": {
+    "players": [
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 22.8
+  },
+  "07 Oct 2017": {
+    "players": [
+      "YS Chahal",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 25
+  },
+  "22 Oct 2017": {
+    "players": [
+      "YS Chahal",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 25.1
+  },
+  "25 Oct 2017": {
+    "players": [
+      "YS Chahal"
+    ],
+    "avg_age": 27.3
+  },
+  "01 Nov 2017": {
+    "players": [
+      "YS Chahal",
+      "SS Iyer"
+    ],
+    "avg_age": 25.1
+  },
+  "04 Nov 2017": {
+    "players": [
+      "YS Chahal",
+      "Mohammed Siraj",
+      "SS Iyer"
+    ],
+    "avg_age": 24.633333333333336
+  },
+  "07 Nov 2017": {
+    "players": [
+      "YS Chahal",
+      "Kuldeep Yadav",
+      "SS Iyer"
+    ],
+    "avg_age": 24.366666666666664
+  },
+  "16 Nov 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Nov 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "02 Dec 2017": {
+    "players": [],
+    "avg_age": null
+  },
+  "10 Dec 2017": {
+    "players": [
+      "YS Chahal",
+      "Kuldeep Yadav",
+      "SS Iyer"
+    ],
+    "avg_age": 24.46666666666667
+  },
+  "13 Dec 2017": {
+    "players": [
+      "Washington Sundar",
+      "YS Chahal",
+      "SS Iyer"
+    ],
+    "avg_age": 22.866666666666664
+  },
+  "17 Dec 2017": {
+    "players": [
+      "Kuldeep Yadav",
+      "SS Iyer"
+    ],
+    "avg_age": 23
+  },
+  "20 Dec 2017": {
+    "players": [
+      "Kuldeep Yadav",
+      "SS Iyer",
+      "JD Unadkat"
+    ],
+    "avg_age": 24.099999999999998
+  },
+  "24 Dec 2017": {
+    "players": [
+      "Washington Sundar",
+      "Mohammed Siraj",
+      "Kuldeep Yadav",
+      "SS Iyer",
+      "JD Unadkat"
+    ],
+    "avg_age": 22.86
+  },
+  "05 Jan 2018": {
+    "players": [],
+    "avg_age": null
+  },
+  "13 Jan 2018": {
+    "players": [],
+    "avg_age": null
+  },
+  "24 Jan 2018": {
+    "players": [],
+    "avg_age": null
+  },
+  "01 Feb 2018": {
+    "players": [
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 23.2
+  },
+  "10 Feb 2018": {
+    "players": [
+      "SS Iyer",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 23.2
+  },
+  "16 Feb 2018": {
+    "players": [
+      "SN Thakur",
+      "SS Iyer",
+      "Kuldeep Yadav"
+    ],
+    "avg_age": 24.266666666666666
+  },
+  "18 Feb 2018": {
+    "players": [
+      "JD Unadkat"
+    ],
+    "avg_age": 26.4
+  },
+  "21 Feb 2018": {
+    "players": [
+      "SN Thakur",
+      "JD Unadkat"
+    ],
+    "avg_age": 26.4
+  },
+  "24 Feb 2018": {
+    "players": [
+      "SN Thakur"
+    ],
+    "avg_age": 26.4
+  },
+  "06 Mar 2018": {
+    "players": [
+      "V Shankar",
+      "RR Pant",
+      "Washington Sundar",
+      "JD Unadkat",
+      "SN Thakur"
+    ],
+    "avg_age": 23.740000000000002
+  },
+  "12 Mar 2018": {
+    "players": [
+      "V Shankar",
+      "SN Thakur",
+      "Washington Sundar",
+      "JD Unadkat"
+    ],
+    "avg_age": 24.575000000000003
+  },
+  "14 Mar 2018": {
+    "players": [
+      "Mohammed Siraj",
+      "V Shankar",
+      "SN Thakur",
+      "Washington Sundar"
+    ],
+    "avg_age": 24
+  },
+  "18 Mar 2018": {
+    "players": [
+      "SN Thakur",
+      "V Shankar",
+      "Washington Sundar",
+      "JD Unadkat"
+    ],
+    "avg_age": 24.625
+  }
+}
